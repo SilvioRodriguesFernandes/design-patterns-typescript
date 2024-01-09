@@ -10,6 +10,7 @@ const personPrototype = {
 
 const anotherPerson = Object.create(personPrototype);
 anotherPerson.firstName = 'Aline';
+
 console.log(anotherPerson);
 console.log(anotherPerson.firstName);
 console.log(anotherPerson.fullName());
