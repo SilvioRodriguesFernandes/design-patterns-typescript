@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ana Clara",
+    "age": "25",
+    "cpf": "606.236.425-15"
+  },
+  {
+    "name": "Rafaela Leão",
+    "age": "23",
+    "cpf": "125.019.270-05"
+  },
+  {
+    "name": "Gisele Mendes",
+    "age": "21",
+    "cpf": "002.816.034-23"
+  },
+  {
+    "name": "Camila Pires",
+    "age": "22",
+    "cpf": "346.672.120-11"
+  },
+  {
+    "name": "Bianca Neves",
+    "age": "24",
+    "cpf": "315.332.635-07"
+  }
+]
